@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import { MatomoProvider, createInstance } from "@datapunt/matomo-tracker-react";
+import MyComponent from "./MyComponent";
 import Page1 from "./Page1";
 import Page2 from "./Page2";
 

@@ -14,3 +14,5 @@ const MyComponent = () => {
     </button>
   );
 };
+
+export default MyComponent;
